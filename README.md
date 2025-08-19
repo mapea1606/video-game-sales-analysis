@@ -12,7 +12,7 @@ This project is a comprehensive data analysis of a video game sales dataset. The
 
 ### **Project Structure**
 
-* `notebooks/`: Contains the Jupyter Notebook (`Video_Game_Sales_Analysis.ipynb`) with all the code and analysis.
+* `notebooks/`: Contains the Jupyter Notebook (`video_game_sales_analysis.ipynb`) with all the code and analysis.
 * `data/`: Stores the raw dataset (`vgsales.csv`) used for the analysis.
 
 ### **Tools and Libraries**
