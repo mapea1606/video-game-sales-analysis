@@ -1,0 +1,12 @@
+# Operating System files
+.DS_Store
+
+# Virtual Environment directory
+venv/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
